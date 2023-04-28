@@ -269,19 +269,19 @@ body {
 }
 
 .feature-made-in-russia::after {
-  background-image: url(../img/advantage-icon-1.png);
+  background-image: url(../img/один.png);
 }
 
 .feature-food::after {
-  background-image: url(../img/advantage-icon-2.png);
+  background-image: url(../img/два.png);
 }
 
 .feature-pilots::after {
-  background-image: url(../img/advantage-icon-3.png);
+  background-image: url(../img/три.png);
 }
 
 .feature-moon-rover::after {
-  background-image: url(../img/advantage-icon-4.png);
+  background-image: url(../img/четыре.png);
 }
 
 .columns-container {
